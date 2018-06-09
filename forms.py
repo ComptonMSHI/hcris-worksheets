@@ -1,0 +1,46 @@
+metaForms = {
+
+
+    'A': {
+       '96': {'FORM_ID': '36-512.2','FORM_NUM_1': '3690','FORM_NUM': '2552-96','FORM_DATE': '05-04','FORM_REV': '12','WKSHT_CD': 'A000000','SHEET_NAME': 'RECLASSIFICATION AND ADJUSTMENT OF TRIAL BALANCE OF EXPENSES'},
+       '10': {'FORM_ID': '40-524','FORM_NUM_1': '4090','FORM_NUM': '2552-10','FORM_DATE': '08-11','FORM_REV': '2','WKSHT_CD': 'A000000','SHEET_NAME': 'RECLASSIFICATION AND ADJUSTMENT OF TRIAL BALANCE OF EXPENSES'}
+    },
+    'G': {
+       '96': {'FORM_ID': '36-600','FORM_NUM_1': '3690','FORM_NUM': '2552-96','FORM_DATE': '10-96','FORM_REV': '10','WKSHT_CD': 'G000000','SHEET_NAME': 'BALANCE SHEET'},        
+       '10': {'FORM_ID': '40-600','FORM_NUM_1': '4090','FORM_NUM': '2552-10','FORM_DATE': '08-11','FORM_REV': '2','WKSHT_CD': 'G000000','SHEET_NAME': 'BALANCE SHEET'}
+    },
+    'G1': {
+        
+    },
+    'G2': {
+        
+    },
+    'G3': {
+        
+    },
+    'S2': {
+        '96': {'FORM_ID': '36-504','FORM_NUM_1': '3690','FORM_NUM': '2552-96','FORM_DATE': '02-11','FORM_REV': '23','WKSHT_CD': 'S200000','SHEET_NAME': 'HOSPITAL AND HOSPITAL HEALTH CARE COMPLEX IDENTIFICATION DATA'}
+    },    
+    'S2I': {
+       '10': {'FORM_ID': '40-504','FORM_NUM_1': '4090','FORM_NUM': '2552-10','FORM_DATE': '08-11','FORM_REV': '2','WKSHT_CD': 'S200001','SHEET_NAME': 'HOSPITAL AND HOSPITAL HEALTH CARE COMPLEX IDENTIFICATION DATA'}
+    },
+    'S3I': {
+
+    },
+    'S3II': {
+
+    },
+    'S3III': {
+
+    },
+    'S3IV': {
+        
+    },
+    'S3V': {
+        
+    }
+
+
+
+
+}
