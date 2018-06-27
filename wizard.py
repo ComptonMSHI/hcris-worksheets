@@ -25,7 +25,6 @@ print("DECLARE @INSTALL_END_YEAR INT = %d" % SQLEndYear)
 print("DECLARE @INSTALL_FROM_PATH VARCHAR(255) = N'%s'" % SQLPath)
 print("DECLARE @INSTALL_FROM_FOLDER VARCHAR(255) = N'%s'" % SQLFolder)
 
-print("TRUNCATE TABLE MCR_WORKSHEETS_AUTO;")
 print("EXEC spBuildCrosswalk @ProductionMode = @INSTALL_PRODUCTION;")
 print("EXEC spLoadWorksheetTemplates @ColumnCount = %d, @ProductionMode = @INSTALL_PRODUCTION;" % SQLColumns)
 

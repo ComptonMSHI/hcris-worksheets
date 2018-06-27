@@ -126,7 +126,7 @@ def processFile(dir, file):
             s2 = ","
             row = formLines[id]
 
-            print("INSERT INTO MCR_WORKSHEETS_AUTO (%s) VALUES ('%s');" % (s2.join(row.keys()),s1.join(row.values())))
+            print("INSERT INTO MCR_WORKSHEETS_AUTO (%s) VALUES ('%s');" % (s2.join(row.keys()), s1.join(row.values())))
 
 
         # Close up shop

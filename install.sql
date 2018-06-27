@@ -1,4 +1,6 @@
 
+DECLARE @INSTALL_PRODUCTION INT = 1
+
 EXEC spSetWorksheetAvailabilityReset @ProductionMode = @INSTALL_PRODUCTION;
 
 EXEC spSetWorksheetAvailabilityOn @Form = '2552-96', @Worksheet = 'A000000', @ProductionMode = @INSTALL_PRODUCTION;
