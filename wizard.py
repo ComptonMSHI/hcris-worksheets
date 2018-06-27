@@ -30,10 +30,10 @@ print("EXEC spBuildCrosswalk @ProductionMode = @INSTALL_PRODUCTION;")
 print("EXEC spLoadWorksheetTemplates @ColumnCount = %d, @ProductionMode = @INSTALL_PRODUCTION;" % SQLColumns)
 
 for dir in directories:
-    filelist = os.listdir("forms/" + dir)
+    filelist = os.listdir(dir)
     print("\n-- ************  " + dir + "  ************\n")
     for file in filelist:
-        hcris.processFile("forms/" + dir,file)
+        hcris.processFile(dir,file)
 
 
 print("EXEC spBuildWorksheets @ColumnCount = %d, @ProductionMode = @INSTALL_PRODUCTION;" % SQLColumns)
