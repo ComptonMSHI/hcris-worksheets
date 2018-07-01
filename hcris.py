@@ -98,7 +98,7 @@ def processFile(dir, file):
                 if len(form) > 0:
                     formLines[formIndex]['DB_VERSION'] = form['FORM_NUM'].split("-").pop()
                     formLines[formIndex]['WKSHT'] = form['WKSHT_CD'][:1]
-                formLines[formIndex]['LINE_NUM_RAW'] = result[0].strip()
+                #formLines[formIndex]['LINE_NUM_RAW'] = result[0].strip()
                 formLines[formIndex]['LINE_NUM'] = formatLineNumber(formIndex)
                 if myWorksheet == 'A':
                     formLines[formIndex]['LINE_DESC'] = sqlPrep(result[2].strip())
