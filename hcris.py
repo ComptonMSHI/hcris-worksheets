@@ -18,9 +18,6 @@ formLines = {}
 extension = '.sql'
 outputdir = 'processed'
 
-print "TRUNCATE TABLE MCR_WORKSHEETS_AUTO;"
-
-
 def processFile(dir, file):
     """Processes a csv HCRIS Worksheet file to format for
     importation into SQL Server"""
@@ -29,7 +26,7 @@ def processFile(dir, file):
 
     if myWorksheet in forms.metaForms.keys() and myYear in forms.metaForms[myWorksheet].keys():
 
-        print "-- Processing worksheet for: " + myWorksheet + " - " + myYear
+        print ("-- Processing worksheet for: %s - %s", myWorksheet, myYear)
     # LIMIT FILES HERE
     # if not re.match("508_Compliant_Version_of_G.csv", file):
     #     return
@@ -122,15 +119,14 @@ def processFile(dir, file):
 
         for line in formLines:
             if formLines[line]['FORM_NUM'] == '':
-                print "-- " + str(formLines[line])
+                print ("-- %s", str(formLines[line]))
         
         for id in formLines:
             s1 = "','"
             s2 = ","
             row = formLines[id]
 
-            query = "INSERT INTO MCR_WORKSHEETS_AUTO (" + s2.join(row.keys()) + ") VALUES ('" + s1.join(row.values()) + "');"
-            print query
+            print("INSERT INTO MCR_WORKSHEETS_AUTO (%s) VALUES ('%s');" % (s2.join(row.keys()), s1.join(row.values())))
 
 
         # Close up shop

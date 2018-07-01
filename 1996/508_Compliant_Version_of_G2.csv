@@ -1,0 +1,71 @@
+10-96,,     FORM CMS-2552-96,,,,        3690 (Cont.),
+STATEMENT OF PATIENT REVENUES,,,PROVIDER NO.:,PERIOD:,"WORKSHEET G-2,",,
+AND OPERATING REVENUES,,,,FROM _________,PARTS I & II,,
+,,,______________,TO ___________,,,
+
+PART_NUM:I, PART_NAME:PATIENT REVENUES,,,,,,,
+,,,,,,,
+,,,INPATIENT,OUTPATIENT, TOTAL,,
+CLMN_GROUP
+,,,CLMN_NUM_1:INPATIENT,CLMN_NUM_2:OUTPATIENT,CLMN_NUM_3:TOTAL,,
+,SECTION_NAME:REVENUE CENTER,,,,,,
+,,,1,2,3,,
+,SUBSECT_NAME:GENERAL INPATIENT ROUTINE CARE SERVICES,,,,,,
+1 ,Hospital,,,,,1 ,
+2 ,Subprovider ,,,,,2 ,
+4 ,Swing bed - SNF,,,,,4 ,
+5 ,Swing bed - NF,,,,,5 ,
+6 ,Skilled nursing facility,,,,,6 ,
+7 ,Nursing facility,,,,,7 
+8 ,Other long term care,,,,,8 
+9 ,Total general inpatient care services (sum of lines 1-8),,,,,9 
+,SUBSECT_NAME:INTENSIVE CARE TYPE INPATIENT HOSPITAL SERVICES,,,,,
+10 ,Intensive care unit,,,,,10 
+11 ,Coronary care unit,,,,,11 
+12 ,Burn intensive care unit,,,,,12 
+13 ,Surgical intensive care unit,,,,,13 
+14 ,Other special care (specify),,,,,14 
+15 ,Total intensive care type inpatient hospital services (sum of of lines 10-14),,,,,
+16 ,Total inpatient routine care services (sum of lines 9 and 15),,,,,16 
+17 ,Ancillary services,,,,,17 
+18 ,Outpatient services,,,,,18 
+19 ,Home health agency,,,,,19 
+20 ,Ambulance,,,,,20 
+21 ,Outpatient rehabilitation providers,,,,,21 
+22 ,ASC,,,,,22 
+23 ,Hospice,,,,,23 
+24 ,,,,,,24 
+25 ,Total patient revenues (sum of lines 16-24) (transfer column 3 to Wkst. G-3, line 1)",,,,,
+,,,,,,
+PART_NUM:II, PART_NAME:OPERATING EXPENSES,,,,,,,
+CLMN_GROUP
+,,,CLMN_NUM_1:1,CLMN_NUM_2:2,,
+26 ,"Operating expenses (per Wkst. A, column 3, line 101)",,,,,26 
+27 ,Add (specify),,,,,27 
+28 ,,,,,,28 
+29 ,,,,,,29 
+30 ,,,,,,30 
+31 ,,,,,,31 
+32 ,,,,,,32 
+33 ,Total additions (sum of lines 27-32),,,,,33 
+34 ,Deduct (specify),,,,,34 
+35 ,,,,,,35 
+36 ,,,,,,36 
+37 ,,,,,,37 
+38 ,,,,,,38 
+39 ,Total deductions (sum of lines 34-38),,,,,39 
+40 ,"Total operating expenses (sum of lines 26 and 33 minus line 39) (transfer to Wkst. G-3, line 4)",,,,,40 
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+
+
+
+
+"FORM CMS-2552-96 (9/96) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II, SECTION 3640)",,,,,,
+
+
+
+
+Rev. 1,,,,,,             36-603

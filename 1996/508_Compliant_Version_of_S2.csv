@@ -1,0 +1,597 @@
+3690 (Cont.),,FORM CMS-2552-96,,,,,,,8-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HOSPITAL AND HOSPITAL HEALTH CARE,,,,PROVIDER NO.:,PERIOD:,,WORKSHEET S-2,,,,,,,,,,,,,,,,,,,,,,,  .,,,,,,,,,,,,,  .
+COMPLEX IDENTIFICATION DATA,,,,,FROM_____________,,(CONT.),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,______________,TO________________,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SECTION_NAME:Hospital and Hospital Health Care Complex Address:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CLMN_GROUP
+1 , Address 1,CLMN_NUM_1:Street:,,CLMN_NUM_2:P.O. Box:,,,,,,1 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CLMN_GROUP
+1.01 , Address 2,CLMN_NUM_1:City:,CLMN_NUM_2:State:,CLMN_NUM_3:Zip Code:,CLMN_NUM_4:County:,,,,,1.01 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SECTION_NAME:Hospital and Hospital-Based Component Identification:,,,,,,Payment System,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CLMN_GROUP
+,,,CLMN_NUM_2:Provider Number,NPI Number,CLMN_NUM_3:Date Certified,"(P, T, O, or N)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,CLMN_NUM_0:Component,CLMN_NUM_1:Component Name,Number,Number,Certified,CLMN_NUM_4:Payment System V,CLMN_NUM_5:Payment System XVIII,CLMN_NUM_6:Payment System XIX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,0,1,2,2.01 ,3,4,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2 , Hospital,,,,,,,,2 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3 , Subprovider,,,,,,,,3 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4 , Swing Beds-SNF,,,,,,,,4 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5 , Swing Beds-NF,,,,,,,,5 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6 , Hospital-Based SNF,,,,,,,,6 ,,,,,,,,,,,,,,,,,
+7 , Hospital-Based NF,,,,,,,,7 ,,,,,,,,,,,,,,,,,
+8 , Hospital-Based OLTC,,,,,,,,8 ,,,,,,,,,,,,,,,,,
+9 , Hospital-Based HHA,,,,,,,,9 ,,,,,,,,,,,,,,,,,
+11 , Separately Certified ASC,,,,,,,,11 ,,,,,,,,,,,,,,,,,
+12 , Hospital-Based Hospice,,,,,,,,12 ,,,,,,,,,,,,,,,,,
+14 , Hospital-Based Health Clinic (specify),,,,,,,,14 ,,,,,,,,,,,,,,,,,
+15 , Outpatient Rehab. Clinic (specify),,,,,,,,15 ,,,,,,,,,,,,,,,,,
+16 , Renal Dialysis,,,,,,,,16 ,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+17 , Cost Reporting Period (mm/dd/yyyy)         ,,From:,______________, To:,____________,,,17 ,,,,,,,,,,,,,,,,,
+,,,,,,1,2 ,,,,,,,,,,,,,,,,,,,
+18 ,Type of Control (see instructions),,,,,,,,18 ,,,,,,,,,,,,,,,,,
+SECTION_NAME:Type of hospital/subprovider (see instructions),,,,,,,,,,,,,,,,,,,,,,,,,,
+19 , Hospital,,,,,,,,19 ,,,,,,,,,,,,,,,,,
+20 , Subprovider,,,,,,,,20 ,,,,,,,,,,,,,,,,,
+SECTION_NAME:Other Information,,,,,,,,,,
+21 , Indicate if your hospital is either (1) urban or (2) rural at the end of the cost reporting period in column 1.,,,,,,,,21 ,
+," If your hospital is geographically classified or located in a rural area, is your bed size in accordance with",,,,,,,,,
+," CFR 42 412.105 less  than or equal to 100 beds, enter in column 2 ""Y"" for yes or ""N"" for no.",,,,,,,,,
+21.01 ,Does your facility qualify and is currently receiving payment for disproportionate share hospital,,,,,,,,21.01 ,
+,"adjustment in accordance with 42 CFR 412.106? Enter in column 1 ""Y"" for yes or ""N"" for no.",,,,,,,,,
+,Is this facility subject to the provisions of 42 CFR 412.106(c)(2) (Pickle amendment hospitals)?,,,,,,,,,
+,"Enter in column 2 ""Y"" for yes or ""N"" for no. ",,,,,,,,,
+21.02 ,Has your facility received a new geographic reclassification status change after the first day of the cost,,,,,,,,21.02 ,
+,"reporting period from rural to urban and vice versa? Enter ""Y"" for yes and ""N"" for no. If yes, enter in column 2 ",,,,,,,,,
+,the effective date (mm/dd/yyyy) (See instructions),,,,,,,,,
+21.03 ,Enter in column 1 your geographic location either (1) urban (2) rural ,,,,,,,,21.03 ,
+,  If you answered urban  in column 1 indicate if you received either a wage or ,,,,,,,,,
+,"  standard  geographic reclassification to a rural location, enter in column 2 ""Y""",,,,,,,,,
+,"  for yes and ""N"" for no. If column 2 is yes enter in column 3 the effective date",,,,,,,,,
+,  (mm/dd/yyyy) (see instruction).  Does your facility contain 100 or fewer beds ,,,,,,,,,
+,"  in accordance with 42 CFR 412.105?  Enter in column 4 ""Y"" for yes and  ""N""",,,,,,,,
+,  for no.  Enter in column 5 the providers actual MSA or CBSA,,,,,,,,
+21.04 ,"For standard Geographic classification ( not wage), what is your status at the beginning of the cost reporting",,,,,,,,21.04 
+,period. Enter (1) urban and (2) rural.,,,,,,,,
+21.05 ,"For standard Geographic classification ( not wage), what is your status at the end of the cost reporting period.",,,,,,,,21.05 
+,Enter (1) urban and (2) rural.,,,,,,,,
+21.06 ,Does this hospital qualifies for the three -year transition of hold harmless payments for small rural hospital,,,,,,,,21.06 
+,under the prospective payment system for hospital outpatient services under DRA �5105 or MIPPA �147?,,,,,,,,
+,"(See instructions). Enter ""Y"" for yes, and ""N"" for no.",,,,,,,,
+21.07 ,"Does this hospital qualify as a SCH with 100 or fewer beds under MIPPA�147? Enter in column 1 ""Y"" for yes",,,,,,,,21.07 
+,"or ""N"" for no (see instructions)",,,,,,,,
+,Is this a SCH or EACH that qualifies for the Outpatient Hold Harmless provision in ACA Section 3121?,,,,,,,,
+,"Enter in column 2 ""Y"" for yes or ""N"" for no.(See instructions)",,,,,,,,
+21.08 ,"Which method is used to determine Medicaid days on S-3, Part I, col. 5  Enter in column 1, ""1"" if it is based on date",,,,,,,,21.08 
+,"  of admission, ""2"" if it based on census days, or ""3"" if it is based on date of discharge.  Is this method different than",,,,,,,,
+,"  the method used in the preceding cost reporting period? Enter in column 2,""Y"" for yes or ""N"" for no.",,,,,,,,
+22 , Are you classified as a referral center?,,,,,,,,22 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+"FORM CMS-2552-96 (08/2010) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II, SECTION 3604)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36-504,,,,,,,,,Rev. 22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02-11,,                      FORM CMS-2552-96,,,,,,,        3690 (Cont.),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HOSPITAL AND HOSPITAL HEALTH CARE,,,,PROVIDER NO.:,PERIOD:,,WORKSHEET S-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COMPLEX IDENTIFICATION DATA,,,,,FROM_____________,,(CONT.),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,______________,TO________________,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23 ," Does this facility operate a transplant center?  If yes, enter certification date(s) in column  2 and ",,,,,,,,23 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+, termination date(s) in column 3 (mm/dd/yyyy) below:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23.01 ," If this is a Medicare certified kidney transplant center, enter the certification date in col. 2 and termination in col. 3",,,,,,,,23.01 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23.02 ," If this is a Medicare certified heart transplant center, enter the certification date in col. 2 and termination in col. 3",,,,,,,,23.02 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23.03 ," If this is a Medicare certified liver transplant center, enter the certification date in col. 2 and termination in col. 3.",,,,,,,,23.03 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23.04 ," If this is a Medicare certified lung transplant center, enter the certification date in col. 2 and termination in col. 3.",,,,,,,,23.04 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23.05 , If Medicare pancreas transplant are performed see instructions for entering certification and termination date.,,,,,,,,23.05 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23.06 ," If this is a Medicare certified intestinal transplant center, enter the certification date in col. 2 and term. in col. 3",,,,,,,,23.06 ,
+23.07 ," If this is a Medicare certified islet transplant center, enter the certification date in col. 2 and termination in col. 3.",,,,,,,,23.07 ,
+ 24 ," If this is an organ procurement organization (OPO), enter the OPO number in col.2 and termination date  in col 3.",,,,,,,,24 ,
+24.01 ,"If this is a Medicare Transplant Center, enter CCN in col. 2, the certification or recertification date",,,,,,,,24.01 ,
+,  after (12/26/2007) in column 3 (mm/dd/yyyy).,,,,,,,,,
+25 , Is this a teaching hospital or affiliated with a teaching hospital and you are receiving payments for I & R?,,,,,,,,25 ,
+25.01 ," Is this teaching program approved in accordance with CMS Pub. 15-I, chapter 4?",,,,,,,,25.01 ,
+25.02 ," If line 25.01 is yes, was Medicare participation and approved teaching program status in effect during",,,,,,,,25.02 ,
+," the first month of the cost reporting period? If yes, complete Worksheet E-3, Part IV.  If no,",,,,,,,,,
+," complete Worksheet D, Parts III and IV and D-2, Part II if applicable.",,,,,,,,,
+25.03 ," As a teaching hospital, did you elect cost reimbursement for physicians' services as defined",,,,,,,,25.03 ,
+," in CMS Pub. 15-I, section 2148?  If yes, complete Worksheet D-9.",,,,,,,,,
+25.04 ," Are you claiming costs on line 70 of Worksheet A?  If yes, complete Worksheet D-2, Part I.",,,,,,,,25.04 ,
+25.05 ,Has your facility direct GME FTE cap (column 1) or IME FTE cap (column 2) been reduced under  ,,,,,,,,25.05 ,
+,"42 CFR �413.79(c)(3) or42 CFR �412.105(f)(1)(iv)(B)?  Enter ""Y"" for yes and ""N"" for no in the applicable",,,,,,,,,
+,columns. (see instructions),,,,,,,,,
+25.06 ,Has your facility received additional direct GME FTE resident cap slots or IME FTE residents cap ,,,,,,,,25.06 ,
+,"slots under 42 CFR �413.79(c)(4)or 42 CFR �412.105(f)(1)(iv)(C)?  Enter ""Y"" for yes and ""N"" for no in the ",,,,,,,,,
+,applicable columns (see instructions).,,,,,,,,,
+,Has your facility trained residents in non-profit setting during the cost reporting period?,,,,,,,,,
+25.07 ,"Enter ""Y"" for yes or ""N"" for no in column 1.",,,,,,,,25.07 ,
+,"If line 25.07 is yes, enter in column 1 the weighted number of non-primary care FTE residents ",,,,,,,,,
+25.08 ,attributable to rotations occurring in all non-provider settings.,,,,,,,,25.08 ,
+,"If line 25.07 is yes, use lines 25.09 through 25.59 as necessary to identify the program name in column 1,",,,,,,,,,
+,"the program code in column 2, and the number unweighted primary care residents FTEs by program in",,,,,,,,,
+25.09 ,column 3 for each primary care specialty program in which residents are trained.(see instructions),,,,,,,,25.09 ,
+26 ," If this is a sole community hospital (SCH), enter the number of periods SCH status in effect in the C/R ",,,,,,,,26 ,
+,period.  Enter beginning and ending dates of SCH status on line 26.01.  Subscript line 26.01 for number,,,,,,,,,
+, of periods in excess of one and enter subsequent dates.,,,,,,,,,
+26.01 ,Enter the applicable SCH dates: (see instructions) Beginning:_________,,,Ending:,,,,,26.01 ,
+26.02 ,Enter the applicable SCH dates: (see instructions) Beginning:_________,,,Ending:,,,,,26.02 ,
+27 , Does this hospital have an agreement under either section 1883 or section 1913 for swing,,,,,,,,27 ,
+," beds?  If yes, enter the agreement date (mm/dd/yyyy) in column 2.",,,,,,,,,
+28 ,"If this facility contains a hospital-based SNF, are all patients under managed care or there were no",,,,,,,,28 ,
+,"Medicare utilization enter ""Y"" ,  if ""N"" complete lines 28.01 and 28.02.",,,,,,,,,
+28.01 ," If hospital based SNF, enter appropriate transition period 1, 2, 3, or 100 in column 1.   Enter in columns 2",,,,,,,,28.01 ,
+, and 3 the wage index adjustment factor before and on or after the October 1st (see instructions),,,,,,,,,
+28.02 , Enter in column 1 the hospital based SNF facility specific rate (from your fiscal intermediary) ,,,,,,,,28.02 ,
+,  if you have not transitioned to 100% SNF PPS payment. In column 2 enter the facility  ,,,,,,,,,
+,"  classification Urban(1) or Rural(2).  In column 3, enter the SNF MSA code or two character",,,,,,,,,
+," state code if a Rural based facility. In column 4, enter the SNF CBSA code or two character",,,,,,,,,
+, state code if a Rural based facility,,,,,,,,,
+," A notice published in the ""Federal Register""  Vol. 68, No. 149 August 4, 2003 provided for an increase in the RUG payments beginning 10/01/2003.  ",,,,,,,,,
+, Congress expected this increase to be used for direct patient care and related expenses.   Enter in column 1 the percentage of total expenses for,,,,,,,,,
+," each category to total SNF revenue from Worksheet G-2, Part I, line 6, column 3.   Indicate in column 2 ""Y"" for yes or ""N"" for no",,,,,,,,,
+, if the spending reflects increases associated with direct patient care and related expenses for each category. (See instructions),,,,,,,,,
+28.03 , Staffing,,,,,,,,28.03 ,
+28.04 , Recruitment,,,,,,,,28.04 ,
+28.05 , Retention of employees,,,,,,,,28.05 ,
+28.06 , Training,,,,,,,,28.06 ,
+28.07 , Other  (Specify),,,,,,,,28.07 ,
+29 , Is this a rural hospital with a certified SNF which has fewer than 50 beds in the aggregate for,,,,,,,,29 ,
+," both components, using the swing bed optional method of reimbursement?",,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+"FORM CMS-2552-96 (02/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II, SECTION 3604)",,,,,,,,,,
+,,,,,,,,,,
+Rev. 23,,,,,,,,,      36-504.1,
+02-11,,                      FORM CMS-2552-96,,,,,,,        3690 (Cont.),
+HOSPITAL AND HOSPITAL HEALTH CARE,,,,PROVIDER NO.:,PERIOD:,,WORKSHEET S-2,,,
+COMPLEX IDENTIFICATION DATA,,,,,FROM_____________,,(CONT.),,,
+,,,,______________,TO________________,,,,,
+30 , Does this hospital qualify as a rural primary care hospital (RPCH)/Critical Access Hospital (CAH)?,,,,,,,,30 ,
+, (see 42 CFR 485.606ff),,,,,,,,,
+30.01 ," If so, is this the initial 12 month period for the facility operated as an RPCH/CAH? See 42 CFR 413.70.",,,,,,,,30.01 ,
+30.02 ," If this facility qualifies as an RPCH/CAH, has it elected the all-inclusive method of payment",,,,,,,,30.02 ,
+, for outpatient services?(See instructions),,,,,,,,,
+30.03 ,"If this facility qualifies as an CAH is it eligible for cost reimbursement for ambulance services?  If yes, ",,,,,,,,30.03 ,
+,enter in column 2 the date of eligibility determination (date must be on or after 12/21/2000).,,,,,,,,,
+30.04 ,"If this facility qualifies as a CAH is it eligible for cost reimbursement for I &R training programs? Enter ""Y"" ",,,,,,,,30.04 ,
+,"for yes and ""N"" for no.  If yes, the GME elimination would not be on Worksheet B, Part I, column 26 and ",,,,,,,,,
+,"the program would be cost reimbursed.  If yes, also complete Worksheet D-2, Part II, if applicable.",,,,,,,,,
+31 , Is this a rural hospital qualifying for an exception to the CRNA fee schedule? See 42 CFR 412.113(c).,,,,,,,,31 ,
+,,,,,,,,,,
+SECTION_NAME:Miscellaneous Cost Reporting information,,,,,,,,,,
+32 ," Is this an all-inclusive provider?  If yes, enter the method used (A, B, or E only) in column 2.",,,,,,,,32 ,
+33 ,"Is this a new hospital under 42 CFR 412.300 PPS capital?  Enter ""Y for yes and ""N"" for no in column 1.",,,,,,,,33 ,
+,"If yes, for cost reporting periods beginning on or after October 1, 2002, do you elect to be reimbursed at 100%",,,,,,,,,
+,"Federal capital payment? Enter ""Y for yes and ""N"" for no in column 2.",,,,,,,,,
+34 , Is this a new hospital under 42 CFR 413.40(f)(1)(i) TEFRA?,,,,,,,,34 ,
+35 , Have you established a new subprovider (excluded unit) under 42 CFR 413.40(f)(1)(i)?,,,,,,,,35 ,
+,,,,,,V,XVIII,XIX,,
+SECTION_NAME:Prospective Payment System (PPS)-Capital,,,,,,1,2,3,,
+36 , Do you elect fully prospective payment methodology for capital costs? (See instructions),,,,,,,,36 ,
+36.01 , Does your facility qualify and receive payment for disproportionate share in accordance with ,,,,,,,,36.01 ,
+,42 CFR 412.320 ? (see instructions),,,,,,,,,
+37 , Do you elect hold harmless payment methodology for capital costs? (See instructions),,,,,,,,37 ,
+37.01 ," If you are a hold harmless provider, are you filing on the basis of 100% of the Federal rate?",,,,,,,,37.01 ,
+,,,,,,,,,,
+SECTION_NAME:Title XIX inpatient services,,,,,,,,,,
+38 , Do you have title XIX inpatient hospital services?,,,,,,,,38 ,
+38.01 , Is this hospital reimbursed for title XIX through the cost report either in full or in part?,,,,,,,,38.01 ,
+38.02 , Does the title XIX program reduce capital following the Medicare methodology?,,,,,,,,38.02 ,
+38.03 , Are title XIX NF patients occupying title XVIII SNF beds (dual certification)? (see instructions),,,,,,,,38.03 ,
+38.04 , Do you operate an ICF/MR facility for purposes of title XIX? ,,,,,,,,38.04 ,
+40 ," Are there any related organization or home office costs as defined in CMS Pub. 15-1, Chapter 10?  If yes,",,,,,,,,40 ,
+,"  and this facility is part of a chain organization, enter in col.  2 the chain home office chain number.  (See inst.)",,,,,,,,,
+,  If this facility is part of a chain organization enter the name and address of the home office on lines 40.01-40.03.,,,,,,,,,
+40.01 ,Name:,,FI/Contractor's Name:    ___________________,,,FI/Contractor's Number:    __________,,,40.01 ,
+40.02 ,Street:,,,,,P. O. Box,,,40.02 ,
+40.03 ,City:,,,,,State:,Zip Code:,,40.03 ,
+41 , Are provider based physicians' costs included in Worksheet A?,,,,,,,,41 ,
+42 , Are physical therapy services provided by outside suppliers?,,,,,,,,42 ,
+42.01 , Are occupational therapy services provided by outside suppliers?,,,,,,,,42.01 ,
+42.02 , Are speech pathology services provided by outside suppliers?,,,,,,,,42.02 ,
+43 , Are respiratory therapy services provided by outside suppliers?,,,,,,,,43 ,
+44 ," If you are claiming cost for renal services on Worksheet A, are they inpatient services only?",,,,,,,,44 ,
+45 , Have you changed your cost allocation methodology from the previously filed cost report?  See,,,,,,,,45 ,
+," CMS Pub. 15-II, section 3617.  If yes, enter the approval date (mm/dd/yyyy) in column 2.",,,,,,,,,
+45.01 , Was there a change in the statistical basis?,,,,,,,,45.01 ,
+45.02 , Was there a change in the order of allocation?,,,,,,,,45.02 ,
+45.03 , Was the change to the simplified cost finding method?,,,,,,,,45.03 ,
+46 , If you are participating in the NHCMQ demonstration project (must have a hospital-based SNF),,,,,,,,46 ,
+," during this cost reporting period, enter the phase (see instructions).",,,,,,,,,
+" If this facility contains a provider that qualifies for an exemption from the application of the lower of costs or charges, enter ""Y"" for",,,,,,,,,,
+" each component and type of service that qualifies for the exemption.  Enter ""N"" if not exempt. (See 42 CFR 413.13.)",,,,,,,,,,
+,,,,,,Outpatient,Outpatient,Outpatient,,
+,,,,Part A,Part B,ASC,Radiology,Diagnostic,,
+,,,,1 ,2 ,3 ,4 ,5 ,,
+47 , Hospital,,,,,,,,47 ,
+48 , Subprovider,,,,,,,,48 ,
+49 , SNF,,,,,,,,49 ,
+50 , HHA,,,,,,,,50 ,
+51 ,Outpatient Rehab. Providers (specify),,,,,,,,51 ,
+,,,,,,,,,,
+"FORM CMS-2552-96 (02/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II, SECTION 3604)",,,,,,,,,,
+Rev. 23,,,,,,,,,      36-505,
+3690 (Cont.),,                      FORM CMS-2552-96,,,,,,,02-11,
+HOSPITAL AND HOSPITAL HEALTH CARE,,,,PROVIDER NO.:,PERIOD:,,WORKSHEET S-2,,,
+COMPLEX IDENTIFICATION DATA,,,,,FROM_____________,,(CONT.),,,
+,,,,______________,TO________________,,,,,
+52 , Does this hospital claim expenditures for extraordinary circumstances in accordance with 42 CFR,,,,,,,,52 ,
+, 412.348(e)?  (see instructions),,,,,,,,,
+52.01 ,If you are a fully prospective or hold harmless provider are you eligible for the special exceptions payment pursuant to,,,,,,,,52.01 ,
+,"42 CFR 412.348(g)? If yes, complete Worksheet L, Part IV",,,,,,,,,
+53 ," If you are a Medicare dependent hospital (MDH), enter the number of periods MDH status in effect in this C/R period.",,,,,,,,53 ,
+, Enter beginning and ending dates of MDH status on line 53.01.  Subscript line 53.01 for number,,,,,,,,,
+, of periods in excess of one and enter subsequent dates.,,,,,,,,,
+53.01 , MDH period,,beginning:_______________,,ending: ______________,,,,53.01 ,
+54 , List amounts of malpractice premiums and paid losses:,,,,,,,,54 ,
+,"    Premiums:___________________, ","Paid losses:_______________,",,and/or Self insurance:___________________,,,,,,
+54.01 , Are malpractice premiums and paid losses reported in other than the Administrative and General cost,,,,,,,,54.01 ,
+," center?  If yes, submit supporting schedule listing cost centers and amounts contained therein.",,,,,,,,,
+55 , Does your facility qualify for additional prospective payment in accordance with 42 CFR 412.107. ,,,,,,,,55 ,,,,
+," Enter ""Y"" for yes and ""N"" for no.",,,,,,,,,,,,
+56 ," Are you claiming ambulance costs? If yes, enter in column 2 the payment limit ",,,Date,Y or N,Limit,Y or N,Fees,56 ,,,,
+, provided from your fiscal intermediary and the applicable dates for those limits ,,,0,1 ,2 ,3 ,4 ,,,,,
+, in column 0.  If this is the first year of operation no entry is required in column 2.  ,,,,,,,,,,,,
+," If column 1 is Y, enter Y or N in column 3 whether this is  your first year of ",,,,,,,,,,,,
+," operations for rendering ambulance services.  Enter in column 4, if applicable, ",,,,,,,,,,,,
+, the fee schedules amounts for the period  beginning on or after 4/1/2002.,,,,,,,,,,,,
+56.01 , Enter subsequent ambulance payment limit as required.  Subscript if more,,,,,,,,56.01 ,,,,
+, than 2 limits apply.  Enter in column 4 the fee schedules amounts for initial or ,,,,,,,,,,,,
+, subsequent periods as applicable.,,,,,,,,,,,,
+57 ,Are you claiming nursing and allied health costs?  (see instructions),,,,,,,,57 ,,,,
+58 ," Are you an Inpatient Rehabilitation Facility (IRF), or do you contain an IRF subprovider? Enter in column 1 ""Y"" for yes and ",,,,,,,,58 ,,,,
+," ""N""  for no.  If yes have you made the election for 100% Federal PPS reimbursement?  Enter in column 2 ""Y for yes and ""N"" ",,,,,,,,,,,,
+,  for no. This option is only available for cost reporting periods beginning on or after 1/1/2002 and before 10/1/2002.,,,,,,,,,,,,
+58.01,"  If line 58 column 1 is Y, does this IRF have a teaching program in the most recent cost reporting  period ",,,,,,,,58.01,,,,
+,"  ending on or before November 15, 2004? Enter in column 1 ""Y"" for yes or ""N"" for no.  Is the facility training ",,,,,,,,,,,,
+,"  residents in a new teaching programs in accordance with  FR Vol. 70, No. 156 dated August 15, 2005 pg 47929?",,,,,,,,,,,,
+,"  Enter in column 2 ""Y"" for yes or ""N"" for no.  If column 2 is Y, enter 1, 2 or 3 respectively in column 3.",,,,,,,,,,,,
+,"  (see instructions).  If the current cost reporting period covers the beginning of the fourth enter 4 in column 3, ",,,,,,,,,,,,
+,"  or if the subsequent academic years of the new teaching program in existence, enter 5 . (see instructions)",,,,,,,,,,,,
+59 ," Are you a Long Term Care Hospital (LTCH)? Enter in column 1 ""Y"" for yes  and ""N"" for no. If yes have you made an ",,,,,,,,59 ,,,,
+," election for100% Federal PPS reimbursement? Enter in column 2  ""Y"" for yes  and ""N"" for no. (see instructions)",,,,,,,,,,,,
+60 ," Are you an Inpatient Psychiatric Facility (IPF), or do you contain an IPF subprovider? Enter in column 1 ""Y"" for yes and ""N"" ",,,,,,,,60 ,,,,
+,"  for no.  If yes, is the IPF or IPF subprovider a new facility?  Enter in column 2 ""Y for yes and ""N""  for no. (see instructions)",,,,,,,,,,,,
+60.01 ,"  If line 60 column 1 is ""Y"", and the facility is an IPF subprovider, were residents training in this facility in its most",,,,,,,,60.01 ,,,,
+,"  recent cost reporting period filed before November 15, 2004? Enter ""Y"" for yes or ""N"" for no.  Is this facility",,,,,,,,,,,,
+,  training residents in a new teaching programs in accordance with  42 CFR Sec. 412.424 (d)(1)(iii)(C)?,,,,,,,,,,,,
+,"  Enter in column 2 ""Y"" for yes or ""N"" for no.  If column 2 is Y, enter 1, 2 or 3 respectively in column 3.",,,,,,,,,,,,
+,"  (see instructions).  If the current cost reporting period covers the beginning of the fourth enter 4 in column 3, ",,,,,,,,,,,,
+,"  or if the subsequent academic years of the new teaching program in existence, enter 5 . (see instr.)",,,,,,,,,,,,
+SECTION_NAME:Multicampus ,,,,,,,,,,,,,
+61 ,"Is this facility part of a Multicampus hospital that has one or more campuses in different CBSA?  Enter ""Y"" for yes and ""N"" for no. ",,,,,,,,61 
+,"If line 61 is yes, enter the name in col. 0, County in col. 1, ",,,,,,, FTE/,
+,"state in col. 2, Zip in col 3, CBSA in col. 4 and",,,County,State ,Zip Code,CBSA,Campus,
+,FTE/Campus in col. 5.,,,1 ,2 ,3 ,4 ,5 ,
+62 ,Name:                                               ,,,,,,,,62 
+SECTION_NAME:Settlement data,,,,,,,,,
+63 ,"Was the cost report filed using the PS&R (either in its entirety or for total charges and days only)?  Enter ""Y"" for yes and ""N"" for",,,,,,,,63 
+,"no in column 1.  If column 1 is ""Y"", enter the ""paid through"" date of the PS&R in column 2 (mm/dd/yyyy)",,,,,,,,
+
+SECTION_NAME:Miscellaneous data,,,,,,,,,
+64 ,"Did this facility incur and report costs for implantable devices charged to patient? Enter in column 1 ""Y"" for yes or ""N"" for no.",,,,,,,,64 
+
+
+
+
+
+
+
+,,,,,,,,,
+"FORM CMS-2552-96 (02/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II, SECTION 3604)",,,,,,,,,
+36-506,,,,,,,,,Rev. 23
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

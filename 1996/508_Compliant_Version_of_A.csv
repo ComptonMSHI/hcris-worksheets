@@ -1,0 +1,511 @@
+05-04,,,,  FORM CMS-2552-96,,,,,,         3690 (Cont.)
+RECLASSIFICATION AND ADJUSTMENT OF TRIAL BALANCE OF EXPENSES,,,,,PROVIDER NO.:,,PERIOD:,,WORKSHEET A,
+,,,,,,,FROM ____________,,,
+,,,,,_,,TO ___________,,,
+,,,,,,,RECLASSIFIED,,NET EXPENSES,
+,,COST CENTER DESCRIPTIONS,,,TOTAL,RECLASSIFI-,TRIAL BALANCE,,FOR ALLOCATION,
+CLMN_GROUP
+,,(omit cents),CLMN_NUM_1:SALARIES,CLMN_NUM_2:OTHER,CLMN_NUM_3:TOTAL,CLMN_NUM_4:RECLASSIFICATIONS,CLMN_NUM_5:TRIAL BALANCE,CLMN_NUM_6:ADJUSTMENTS,CLMN_NUM_7:FOR ALLOCATION,
+,,,1,2,3,4,5,6,7,
+,,SUBSECT_NAME:GENERAL SERVICE COST CENTERS, , , , , , , ,
+1 , 0100,Old Capital Related Costs-Buildings and Fixtures, , , ,,,,,1 
+2 , 0200,Old Capital Related Costs-Movable Equipment, , , ,,,,,2 
+3 , 0300,New Capital Related Costs-Buildings and Fixtures, ,,,,,,,3 
+4 , 0400,New Capital Related Costs-Movable Equipment, ,,,,,,,4 
+5 , 0500,Employee Benefits,,,,,,,,5 
+6 , 0600,Administrative and General,,,,,,,,6 
+7 , 0700,Maintenance and Repairs,,,,,,,,7 
+8 , 0800,Operation of Plant,,,,,,,,8 
+9 , 0900,Laundry and Linen Service,,,,,,,,9 
+10 , 1000,Housekeeping,,,,,,,,10 
+11 , 1100,Dietary,,,,,,,,11 
+12 , 1200,Cafeteria,,,,,,,,12 
+13 , 1300,Maintenance of Personnel,,,,,,,,13 
+14 , 1400,Nursing Administration,,,,,,,,14 
+15 , 1500,Central Services and Supply,,,,,,,,15 
+16 , 1600,Pharmacy,,,,,,,,16 
+17 , 1700,Medical Records  & Medical Records Library,,,,,,,,17 
+18 , 1800,Social Service,,,,,,,,18 
+19 ,,Other General Service (specify),,,,,,,,19 
+20 , 2000,Nonphysician Anesthetists,,,,,,,,20 
+21 , 2100,Nursing School,,,,,,,,21 
+22 , 2200,Intern & Res. Service-Salary & Fringes (Approved),,,,,,,,22 
+23 , 2300,Intern & Res. Other Program Costs (Approved),,,,,,,,23 
+24 , 2400,Paramedical Ed. Program (specify) ,,,,,,,,24 
+,,SUBSECT_NAME:INPATIENT ROUTINE SERVICE COST CENTERS, , , , , , , ,
+25 , 2500,Adults and Pediatrics (General Routine Care),,,,,,,,25 
+26 , 2600,Intensive Care Unit,,,,,,,,26 
+27 , 2700,Coronary Care Unit,,,,,,,,27 
+28 , 2800,Burn Intensive Care Unit,,,,,,,,28 
+29 , 2900,Surgical Intensive Care Unit,,,,,,,,29 
+30 ,,Other Special Care (specify),,,,,,,,30 
+31 , 3100,Subprovider (specify),,,,,,,,31 
+33 , 3300,Nursery,,,,,,,,33 
+34 , 3400,Skilled Nursing Facility,,,,,,,,34 
+35 , 3500,Nursing Facility,,,,,,,,35 
+36 , 3600,Other Long Term Care,,,,,,,,36 
+,,,,,,,,,,
+"FORM CMS-2552-96 (9/96)  (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II, SECTION 3610)",,,,,,,,,,
+
+Rev. 12,,,,,,,,,,                 36-512.2,
+07-09,,,,  FORM CMS-2552-96,,,,,,         3690 (Cont.),
+RECLASSIFICATION AND ADJUSTMENT OF TRIAL BALANCE OF EXPENSES,,,,,PROVIDER NO.:,,PERIOD:,,WORKSHEET A,,
+,,,,,,,FROM ____________,,,,
+,,,,,_,,TO ___________,,,,
+,,,,,,,RECLASSIFIED,,NET EXPENSES,,
+,,COST CENTER DESCRIPTIONS,,,TOTAL,RECLASSIFI-,TRIAL BALANCE,,FOR ALLOCATION,,
+,,(omit cents),SALARIES,OTHER,(col. 1 + col. 2),CATIONS,(col. 3 � col. 4),ADJUSTMENTS,(col. 5 � col. 6),,
+,,,1,2,3,4,5,6,7,,
+,,SUBSECT_NAME:ANCILLARY SERVICE COST CENTERS, , , , , , , ,,
+37 , 3700,Operating Room,,,,,,,,37 ,
+38 , 3800,Recovery Room,,,,,,,,38 ,
+39 , 3900,Delivery Room and Labor Room,,,,,,,,39 ,
+40 , 4000,Anesthesiology,,,,,,,,40 ,
+41 , 4100,Radiology-Diagnostic,,,,,,,,41 ,
+42 , 4200,Radiology-Therapeutic,,,,,,,,42 ,
+43 , 4300,Radioisotope,,,,,,,,43 ,
+44 , 4400,Laboratory,,,,,,,,44 ,
+45 , 4500,PBP Clinical Laboratory Services-Program Only, , , , , , , ,45 ,
+46 , 4600,Whole Blood & Packed Red Blood Cells,,,,,,,,46 ,
+47 , 4700,"Blood Storing, Processing, & Trans.",,,,,,,,47 ,
+48 , 4800,Intravenous Therapy,,,,,,,,48 ,
+49 , 4900,Respiratory Therapy,,,,,,,,49 ,
+50 , 5000,Physical Therapy,,,,,,,,50 ,
+51 , 5100,Occupational Therapy,,,,,,,,51 ,
+52 , 5200,Speech Pathology,,,,,,,,52 ,
+53 , 5300,Electrocardiology,,,,,,,,53 ,
+54 , 5400,Electroencephalography,,,,,,,,54 ,
+55 , 5500,Medical Supplies Charged to Patients,,,,,,,,55 ,
+55.30,5530,Implantable Devices Charged to Patients,,,,,,,,55.30,
+56 , 5600,Drugs Charged to Patients,,,,,,,,56 ,
+57 , 5700,Renal Dialysis,,,,,,,,57 ,
+58 , 5800,ASC (Non-Distinct Part),,,,,,,,58 ,
+59 ,,Other Ancillary (specify),,,,,,,,59 ,
+,,SUBSECT_NAME:OUTPATIENT SERVICE COST CENTERS, , , , , , , ,,
+60 , 6000,Clinic,,,,,,,,60 ,
+61 , 6100,Emergency,,,,,,,,61 ,
+62 , 6200,Observation Beds, , , , , , , ,62 ,
+63 ,,Other Outpatient Service (specify),,,,,,,,63 ,
+,,SUBSECT_NAME:OTHER REIMBURSABLE COST CENTERS, , , , , , , ,,
+64 , 6400,Home Program Dialysis,,,,,,,,64 ,
+65 , 6500,Ambulance Services,,,,,,,,65 ,
+66 , 6600,Durable Medical Equipment-Rented,,,,,,,,66 ,
+67 , 6700,Durable Medical Equipment-Sold,,,,,,,,67 ,
+68 ,,Other Reimbursable (specify),,,,,,,,68 ,
+69 ,,Outpatient Rehabilitation Provider (specify),,,,,,,,69 ,
+,,,,,,,,,,,
+"FORM CMS-2552-96 (7/2009)  (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II, SECTION 3610)",,,,,,,,,,,
+
+Rev. 20,,,,,,,,,,                 36-513,
+07-09,,,,  FORM CMS-2552-96,,,,,,         3690 (Cont.),
+RECLASSIFICATION AND ADJUSTMENT OF TRIAL BALANCE OF EXPENSES,,,,,PROVIDER NO.:,,PERIOD:,,WORKSHEET A,,
+,,,,,,,FROM ____________,,,,
+,,,,,_,,TO ___________,,,,
+,,,,,,,RECLASSIFIED,,NET EXPENSES,,
+,,COST CENTER DESCRIPTIONS,,,TOTAL,RECLASSIFI-,TRIAL BALANCE,,FOR ALLOCATION,,
+,,(omit cents),SALARIES,OTHER,(col. 1 + col. 2),CATIONS,(col. 3 � col. 4),ADJUSTMENTS,(col. 5 � col. 6),,
+,,,1,2,3,4,5,6,7,,
+70 , 7000,Intern-Resident Service (not appvd. tchng. prgm.),,,,,,,,70 ,
+71 , 7100,Home Health Agency,,,,,,,,71 ,
+,,SUBSECT_NAME:SPECIAL PURPOSE COST CENTERS, , , , , , , ,,
+82 , 8200,Lung Acquisition,,,,,,,,82 ,
+83 , 8300,Kidney Acquisition,,,,,,,,83 ,
+84 , 8400,Liver Acquisition,,,,,,,,84 ,
+85 , 8500,Heart Acquisition,,,,,,,,85 ,
+86 ,,Other Organ Acquisition (specify),,,,,,,,86 ,
+88 , 8800,Interest Expense, ,,,,,,- 0 -,88 ,
+89 , 8900,Utilization Review-SNF,,,,,,,- 0 -,89 ,
+90 , 9000,Other Capital-Related Costs (see instructions), ,,,,,,- 0 -,90 ,
+92 , 9200,Ambulatory Surgical Center (Distinct Part),,,,,,,,92 ,
+93 , 9300,Hospice,,,,,,,,93 ,
+94 ,,Other Special Purpose (specify),,,,,,,,94 ,
+95 , ,SUBTOTALS (sum of lines 1-94),,,,,,,,95 ,
+,,SUBSECT_NAME:NONREIMBURSABLE COST CENTERS, , , , , , , ,,
+96 , 9600,"Gift, Flower, Coffee Shop, & Canteen",,,,,,,,96 ,
+97 , 9700,Research,,,,,,,,97 ,
+98 , 9800,Physicians' Private Offices,,,,,,,,98 ,
+99 , 9900,Nonpaid Workers,,,,,,,,99 ,
+100 ,,Other Nonreimbursable (specify),,,,,,,,100 ,
+101 , ,TOTAL (sum of lines 95-100), , , ,- 0 -, , , ,101 ,
+,,,,,,,,,,,
+"FORM CMS-2552-96 (9/96)  (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II, SECTION 3610)",,,,,,,,,,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rev. 20,,,,,,,,,,                 36-514
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
