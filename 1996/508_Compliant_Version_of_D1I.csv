@@ -1,0 +1,67 @@
+
+3690 (Cont.),,,,FORM CMS-2552-96,,,,,,2-AugCOMPUTATION OF INPATIENT,,,, PROVIDER NO.:, COMPONENT NO.:,PERIOD:,,,"WORKSHEET D-1,",
+OPERATING COST,,,,,,FROM  __________,,,PART I,
+,,,, __________________,__________________,TO   ____________,,,,
+Check,, [   ]  Title V - I/P,,  [   ]  Hospital             [   ]  NF,,,  [   ]  PPS,,,
+applicable,," [   ]  Title XVIII, Part A",,  [   ]  Subprovider      [   ]  ICF/MR,,,  [   ]  TEFRA,,,
+boxes,, [   ]  Title XIX - I/P,,  [   ]  SNF,,,  [   ]  Other,,,
+PART_NUM:I,PART_NAME:ALL PROVIDER COMPONENTS,,,,,,,,,
+CLMN_GROUP,,,,,,,,,,
+,CLMN_NUM_1:Total,,,,,,,,,
+,,,,SUBSECT_NAME:INPATIENT DAYS,,,,,,
+1 ," Inpatient days (including private room days and swing-bed days, excluding newborn)",,,,,,,,,1
+2 ," Inpatient days (including private room days, excluding swing-bed and newborn days)",,,,,,,,,2
+3 , Private room days (excluding swing-bed private room days),,,,,,,,,3
+4 , Semi-private room days (excluding swing-bed private room days),,,,,,,,,4
+5 , Total swing-bed SNF type inpatient days (including private room days) through December 31 of the cost reporting period,,,,,,,,,5
+6 , "Total swing-bed SNF type inpatient days (including private room days) after December 31 of the cost reporting period (if calendar year, enter 0 on this line)",,,,,,,,,6
+7 , Total swing-bed NF type inpatient days (including private room days) through December 31 of the cost reporting period,,,,,,,,,7
+8 , "Total swing-bed NF type inpatient days (including private room days) after December 31 of the cost reporting period (if calendar year, enter 0 on this line)",,,,,,,,,8
+9 , Total inpatient days including private room days applicable to the Program (excluding swing-bed and newborn days,,,,,,,,,9
+10 , Swing-bed SNF type inpatient days applicable to title XVIII (including private room days) through December 31 of the cost reporting period (see instructions),,,,,,,,,10
+11 , "Swing-bed SNF type inpatient days applicable to title XVIII (including private room days) after  December 31 of the cost reporting period (if calendar year, enter 0 on this line)",,,,,,,,,11
+12 , Swing-bed NF type inpatient days applicable to titles V or XIX (including private room days) through December 31 of the cost reporting period.,,,,,,,,,12
+13 , "Swing-bed NF type inpatient days applicable to titles V or XIX (including private room days) after December 31 of the cost reporting period (if calendar year, enter 0 on this line)",,,,,,,,,13
+14 , Medically necessary private room days applicable to the Program ( excluding swing-bed days),,,,,,,,,14
+15 , Total nursery days (title V or XIX only),,,,,,,,,15
+16 , Nursery days (title V or XIX only),,,,,,,,,16
+,,,,SUBSECT_NAME:SWING BED ADJUSTMENT,,,,,,
+17 , Medicare rate for swing-bed SNF services applicable to services through December 31 of the cost reporting period,,,,,,,,,17
+18 , Medicare rate for swing-bed SNF services applicable to services after December 31 of the cost reporting period,,,,,,,,,18
+19 , Medicaid rate for swing-bed NF services applicable to services through December 31 of the cost reporting period,,,,,,,,,19
+20 , Medicaid rate for swing-bed NF services applicable to services after December 31 of the cost reporting period,,,,,,,,,20
+21 , Total general inpatient routine service cost (see instructions),,,,,,,,,21
+22 , Swing-bed cost applicable to SNF type services through  December 31 of the cost reporting period (line 5 x line 17),,,,,,,,,22
+23 , Swing-bed cost applicable to SNF type services after  December 31 of the cost reporting period (line 6 x line 18),,,,,,,,,23
+24 , Swing-bed cost applicable to NF type services through  December 31 of the cost reporting period (line 7 x line 19),,,,,,,,,24
+25 , Swing-bed cost applicable to NF type services after December 31 of the cost reporting period (line 8 x line 20),,,,,,,,,25
+26 , Total swing-bed cost (see instructions),,,,,,,,,26
+27 , General inpatient routine service cost net of swing-bed cost (line 21 minus line 26),,,,,,,,,27
+,,,,SUBSECT_NAME:PRIVATE ROOM DIFFERENTIAL ADJUSTMENT,,,,,,
+28 , General inpatient routine service charges (excluding swing-bed charges),,,,,,,,,28
+29 , Private room charges (excluding swing-bed charges),,,,,,,,,29
+30 , Semi-private room charges (excluding swing-bed charges),,,,,,,,,30
+31 , General inpatient routine service cost/charge ratio (line 27 � line 28),,,,,,,,,31
+32 , Average private room per diem charge (line 29 � line 3),,,,,,,,,32
+33 , Average semi-private room per diem charge (line 30 � line 4),,,,,,,,,33
+34 , Average per diem private room charge differential (line 32 minus line 33),,,,,,,,,34
+35 , Average per diem private room cost differential (line 34 x line 31),,,,,,,,,35
+36 , Private room cost differential adjustment (line 3 x line 35),,,,,,,,,36
+37 , General inpatient routine service cost net of swing-bed cost and private room cost differential (line 27 minus line 36),,,,,,,,,37
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+"FORM CMS-2552-96 (8/2002)  (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II, SECTIONS 3622-3622.1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+36-576,,,,,,,,,,                Rev. 9

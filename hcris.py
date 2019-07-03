@@ -12,9 +12,6 @@ import forms
 markerTags = ['FORM_ID', 'FORM_DATE', 'FORM_NUM_1', 'FORM_NUM', 'FORM_REV', 'WKSHT_CD', 'SHEET_NAME', 'SECTION_NAME', 'SUBSECT_NAME', 'PART_NUM', 'PART_NAME']
 columns = 9
 
-form = {}
-formLines = {}
-
 extension = '.sql'
 outputdir = 'processed'
 
@@ -24,12 +21,17 @@ def processFile(dir, file):
     myWorksheet = formatNameAsWorksheet(file)
     myYear = dir[2:4]
 
+    form = {}
+    formLines = {}
+
     if myWorksheet in forms.metaForms.keys() and myYear in forms.metaForms[myWorksheet].keys():
 
-        print ("-- Processing worksheet for: %s - %s", myWorksheet, myYear)
-    # LIMIT FILES HERE
-    # if not re.match("508_Compliant_Version_of_G.csv", file):
-    #     return
+        print ("-- Processing worksheet for:", myWorksheet, myYear)
+
+        # LIMIT FILES HERE FOR TROUBLESHOOTING
+        # if not re.match("508_Compliant_Version_of_D1I.csv", file):
+        #     print("Skipping",file)
+        #     return
 
         for tag in markerTags:
             form[tag] = ''
@@ -43,28 +45,18 @@ def processFile(dir, file):
         if not os.path.exists(outputdir):
             os.makedirs(outputdir)
 
-        readin = open(dir + "/" + file, 'r')
+        #CHANGED 7/2/19
+        #readin = open(dir + "/" + file, 'r')
+        readin = open(dir + "/" + file, 'r', encoding="latin-1")
 
         processedFileName = outputdir + "/" + re.sub('.csv$', '', file).split(" ")[-1] + "-" + dir[5:] + extension
-
-        if os.path.exists(processedFileName):
-            os.remove(processedFileName)
-
-        #writeout = open(processedFileName, 'w')
-
-
-
 
         # Check delimiter, do replacement
         reLineMarker = "^\s?[0-9]{1,3} ," #
         reSubLineMarker = "^\s?[0-9]{1,3}\.[0-9]{1,2}\s?," #
         reSkip = ",*,"
 
-
         for line in readin:
-
-            #print line
-
             for tag in markerTags:
                 if re.match('CLMN_GROUP', line):
                     for i in range(0, columns):
@@ -77,11 +69,8 @@ def processFile(dir, file):
                     column = formatMarker(tag, line)
                     form[tag] = column[2]
                     form[tag.replace('_NUM_','_DESC_')] = column[0].replace('"','')
-    
-            #if re.match("Address", line):
 
             if re.match(reLineMarker, line) or re.match(reSubLineMarker, line):
-
                 result = readAsCsv(line)
 
                 formIndex = result[0].strip()
@@ -105,15 +94,10 @@ def processFile(dir, file):
             elif re.match(reSkip,line):
                 skip = None
             else:
-                #print line
                 skip = None 
-
-
 
         # pp = pprint.PrettyPrinter(depth=6)
         # pp.pprint(formLines)
-        
-
 
         # Good Output
 
@@ -128,10 +112,8 @@ def processFile(dir, file):
 
             print("INSERT INTO MCR_WORKSHEETS_AUTO (%s) VALUES ('%s');" % (s2.join(row.keys()), s1.join(row.values())))
 
-
         # Close up shop
         readin.close()
-        #writeout.close()
 
 
 
